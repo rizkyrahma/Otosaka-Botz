@@ -1,7 +1,7 @@
 {
-  "name": "dcode-denpa",
+  "name": "Alam-Botz",
   "version": "0.0.1",
-  "description": "bitch-boot",
+  "description": "Otosaka-Botz",
   "main": "node index",
   "directories": {
     "lib": "lib"
@@ -64,10 +64,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dcode-denpa/bitch-boot.git"
+    "url": "git+https://github.com/Alam-Botz/Otosaka-Botz.git"
   },
   "bugs": {
-    "url": "https://github.com/dcode-denpa/bitch-boot/issues"
+    "url": "https://github.com/Alam-Botz/Otosaka-Botz/issues"
   },
-  "homepage": "https://github.com/dcode-denpa/bitch-boot#readme"
+  "homepage": "https://github.com/Alam-Botz/Otosaka-Botz#readme"
 }
